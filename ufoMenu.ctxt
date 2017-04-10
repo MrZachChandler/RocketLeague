@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ufoMenu()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=int\ getLocX()
+comment3.params=
+comment3.target=int\ getLocY()
+comment4.params=
+comment4.target=boolean\ getCow()
+comment5.params=clss
+comment5.target=boolean\ canSee(java.lang.Class)
+comment6.params=
+comment6.target=void\ dropBalloon()
+comment7.params=
+comment7.target=void\ checkWorld()
+numComments=8

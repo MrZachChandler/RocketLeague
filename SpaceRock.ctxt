@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n
+comment1.params=
+comment1.target=void\ remove()
+comment2.params=i
+comment2.target=void\ setScale(int)
+comment3.params=
+comment3.target=int\ getScale()
+numComments=4
